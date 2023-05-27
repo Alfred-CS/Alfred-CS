@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alfred-CS
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java and Python. Currently finishing up my Cloud Computing MS w/ University of Maryland.
+- 🌱 I’m currently developing with Java and Python. Currently finishing up my Software Engineering MSEng w/ Arizona State University
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: Email AlfredCS@protonmail.com
 
