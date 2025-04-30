@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Alfred-CS
 - 👀 I’m interested in Software Development, I am passionate about Machine Learning.
-- 🌱 I’m currently developing with Java and Python. Currently finishing up my Data Analytics MSC w/ Western Governers University
-- 💞️ I’m looking to collaborate on anything.
+- 🌱 I’m currently developing with Java and Python. Currently finishing up my Masters in Computer Science with Georgia Tech
 - 📫 How to reach me: Email AlfredCS@protonmail.com
 
 <!---
